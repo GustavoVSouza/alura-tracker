@@ -6,7 +6,7 @@ Site responsivo para apresentar minhas habilidades no Front-End
 | -------------  | --- |
 | ⭐ Nome        | **Tracker com Vue.JS**
 | :label: Tecnologias | HTML5, CSS3, Vue.JS 
-| :rocket: URL         |https://gustavo-souza-portifolio.vercel.app
+| :rocket: URL         |https://alura-tracker-teal.vercel.app/
 
 ## Detalhes do projeto
 
