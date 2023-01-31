@@ -1,24 +1,13 @@
-# alura-tracker
+# Site de Portifólio
 
-## Project setup
-```
-npm install
-```
+Site responsivo para apresentar minhas habilidades no Front-End
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+| ➡️ Front-End |     |
+| -------------  | --- |
+| ⭐ Nome        | **Tracker com Vue.JS**
+| :label: Tecnologias | HTML5, CSS3, Vue.JS 
+| :rocket: URL         |https://gustavo-souza-portifolio.vercel.app
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Detalhes do projeto
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Este é um projeto que desenvolvi durante meu curso de Vue.JS na Alura.
