@@ -73,5 +73,6 @@ main.modo-escuro {
 
 .conteudo {
   background-color: var(--bg-primario);
+  height: 100vh;
 }
 </style>
